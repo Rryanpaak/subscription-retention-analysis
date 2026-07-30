@@ -42,10 +42,8 @@ The project uses the **Ravenstack Churn & Retention Analysis** dataset from Kagg
 
 ## Tools
 
-- **PostgreSQL:** data-quality checks, data preparation, view creation, and analysis
-- **SQL:** lifecycle, cohort-retention, and segment-level calculations
+- **PostgreSQL:** data preparation, view creation, and analysis
 - **Power BI:** data modeling and dashboard development
-- **GitHub:** project documentation and portfolio presentation
 
 ## Data Preparation
 
