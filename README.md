@@ -10,8 +10,13 @@ How does subscriber retention change over time and where is churn concentrated a
 The analysis examines monthly growth, active and churned subscriber trends focusing on 1, 3, 6 month cohort retention and the changes during the first six month of the subscription lifecycle. It also investigates where the churn is concentrated across industry, country, plan tiers and reported churn resons.
 
 The goal is to understand how well the subscribers are retained after their first subscribe.
-
-
+#### Sub Question
+- How many new customers acquired each month?
+- What percentages of customer returns after their first subscribe?
+- Which monthly cohort have strongest retention rate?
+- Which cohort month do subscribers churn the most?
+- How do support interaction relate to churn or retention?
+- Which subscriber segments show higher churn risk?
 
 
 ### Dataset
