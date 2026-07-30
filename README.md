@@ -126,28 +126,31 @@ Summarizes subscriber acquisition and lifecycle status through:
 
 - Total, active, and churned subscriber KPIs
 - Overall churn rate
+- Average monthly new subscribers
 - Monthly new-subscriber trend
 - Active and churned subscriber trend
-- Monthly cohort size
+- Monthly churned-subscriber trend
 
 ### Page 2 - Cohort Retention
 
 Shows how subscriber retention changes during the first six months through:
 
+- Total subscriber KPI
 - 1-, 3-, and 6-month retention KPIs
+- Retained subscribers over time
 - M0-M6 cohort-retention heatmap
-- Retention curve by cohort
-- Cohort-size comparison
+- Overall retention rate by cohort index from M0 to M6
 
 ### Page 3 - Customer Segments
 
 Identifies where churn is concentrated through:
 
+- Total subscribers, churned subscribers, and overall churn rate
+- Churn rate over time
 - Churn rate by industry
 - Churn rate by country
 - Churn rate by plan tier
-- Churn rate by support-ticket priority
-- Reported churn reasons and customer feedback
+- Churn-detail records covering country, industry, plan tier, referral source, reported reason, and customer feedback
 
 ## Key Findings
 
