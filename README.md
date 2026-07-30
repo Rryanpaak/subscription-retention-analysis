@@ -18,7 +18,6 @@ The goal is to understand how well the subscribers are retained after their firs
 - How do support interaction relate to churn or retention?
 - Which subscriber segments show higher churn risk?
 
-
 ### Dataset
 
 
