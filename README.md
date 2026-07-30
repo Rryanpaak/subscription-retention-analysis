@@ -163,7 +163,7 @@ Identifies where churn is concentrated through:
 
 | Evidence | Suggested action |
 |---|---|
-| The April 2024 cohort lost 59.09% of subscribers by M1. | Review its acquisition sources, onboarding completion, and early product engagement to identify where first-month loss occurred. |
+| The April 2024 cohort lost 59.09% of subscribers by M1. | Check how these subscribers joined, whether they completed onboarding, and how they used the service during the first month. |
 | UK, DevTools, and Pro-plan accounts had the highest churn rates in their respective comparisons. | Prioritize these groups for customer interviews and targeted retention tests while checking whether segment size or other account characteristics explain the differences. |
 | Accounts with high-priority support tickets had a 72.67% churn rate. | Review issue types, response times, and resolutions before testing proactive escalation and post-resolution follow-up processes. |
 
