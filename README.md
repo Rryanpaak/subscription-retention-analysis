@@ -154,10 +154,12 @@ Identifies where churn is concentrated through:
 
 ## Key Findings
 
-- By December 2024, **352 of 500 subscriber accounts had churned**, while 148 remained active. This represents an overall churn rate of **70.4%**.
 - The **April 2024 cohort** recorded **59.09% churn by M1**, increasing to **72.73% by M3** and **86.36% by M6**.
 - The highest churn rates within the analyzed segment categories were found among **UK accounts (77.59%)**, **DevTools accounts (73.45%)**, and **Pro-plan accounts (72.47%)**.
 - Accounts associated with **high-priority support tickets** had the highest support-priority churn rate at **72.67%**. However, churn rates were relatively close across all support-priority groups.
+- August 2023 cohort showed the strongest retention performance while August 2024 cohort showed sharper decline over time.
+- Churn rates generally increased over time while February 2024 cohort showed a lower churn rate compared with the overall trend.
+- Germany's churn rate is noticeably lower than UK's, at 56% compared with 77.6%, a difference of 21.6% points.
 
 ## Recommendations
 
